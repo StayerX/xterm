@@ -20,4 +20,4 @@ xterm beatification - an attempt to make this lightweight terminal feel more wel
 Use `xterm`
 
 ### Suggestions and improvements are appreciated.
-### This is based on information I found through multiple sources too long ago. Shoudl I find them I will add them.
+-- This is based on information I found through multiple sources too long ago. Shoudl I find them I will add them. --

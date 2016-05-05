@@ -11,4 +11,4 @@ xterm beatification - an attempt to make this lightweight terminal feel more wel
 # Run
 Use `xterm`
 
-# Suggestions and improvements are appreciated.
+### Suggestions and improvements are appreciated.

@@ -1,5 +1,5 @@
 # [xterm](https://en.wikipedia.org/wiki/Xterm)
-xterm beatification - an attempt to make this lightweight terminal feel more welcoming by mimicking Ubuntu terminal appearance
+xterm beatification - an attempt to make this lightweight terminal feel more welcoming by mimicking Ubuntu terminal appearance and functionality, without loosing the amazing lightness.
 
 
 ![Before vs After xterm](https://cdn.rawgit.com/StayerX/xterm/master/before-after-xterm.png)

@@ -1,6 +1,9 @@
 # [xterm](https://en.wikipedia.org/wiki/Xterm)
 xterm beatification - an attempt to make this lightweight terminal feel more welcoming by mimicking Ubuntu terminal appearance
 
+
+![Before vs After xterm](https://raw.githubusercontent.com/StayerX/xterm/master/before-after-xterm.png)
+
 # Installation:
 * Paste the content of `.Xresources`
 
